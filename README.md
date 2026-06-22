@@ -13,6 +13,3 @@
 - Applied extended ACLs to enforce local VLAN segmentation at each site.
 - Verified DHCP assignment, routing, trunking, ACL enforcement, and cross-site connectivity.
 
-## Next Phase
-
-- Configure a site-to-site VPN between HQ and Branch routers to secure cross-site traffic.
